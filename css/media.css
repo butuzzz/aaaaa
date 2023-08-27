@@ -1,0 +1,75 @@
+@media (max-width: 425px) {
+    .ult {
+        display: none;
+    }
+    
+    .navbar-brand {
+        display: none;
+    }
+
+    .navbar-menu li a {
+        font-family: Montserrat;
+        font-size: 8px;
+        font-weight: 400;
+        line-height: 10px;
+        letter-spacing: 0.1em;
+        text-align: left;
+        margin: 0;
+        padding: 0;
+    }
+
+    #cof {
+        display: none;
+    }
+    #tos {
+        display: none;
+    }
+
+    #rus {
+        width: 154px;
+        height: 72px;
+        border-radius: 20px;
+        margin-left: 0;
+    }
+
+    #nit {
+        width: 137px;
+        height: 70px;
+    }
+
+    .main-heading p {
+        font-family: Montserrat;
+        font-size: 11px;
+        font-weight: 400;
+        line-height: 13px;
+        letter-spacing: 0.1em;
+        text-align: left;
+        width: 338px;
+        margin-left: 27px;
+    }
+
+    .main-heading h1 {
+        font-family: Anybody;
+        font-size: 24px;
+        font-weight: 800;
+        line-height: 25px;
+        letter-spacing: 0.1em;
+        text-align: left;
+        margin-left: 27px;
+    }
+
+    #chep {
+        font-family: Montserrat;
+        font-size: 9px;
+        font-weight: 600;
+        line-height: 11px;
+        letter-spacing: 0.1em;
+        text-align: left;
+        width: 98px;
+        margin-top: 0px;
+    }
+
+    #inpt {
+        margin-bottom: 0;
+    }
+}
