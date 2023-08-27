@@ -152,4 +152,16 @@
     .fff {
         margin-left: 27px;
     }
+
+    .about img {
+        width: 423px;
+        height: 130px;
+    }
+}
+
+@media (min-width: 425px) {
+    .fff {
+        display: none;
+    }
+
 }
