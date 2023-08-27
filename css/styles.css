@@ -114,7 +114,6 @@ a {
 
 
 .main-heading p{
-
     height: 76px;
     margin-left: 151px;
 	font-family: 'Montserrat', sans-serif;
@@ -510,4 +509,13 @@ a {
 
 .m-only {
     display: none;
+}
+
+.none {
+    display: none;
+}
+
+.llog {
+    width: 72px;
+    height: 62px;
 }

@@ -2,9 +2,23 @@
     .ult {
         display: none;
     }
-    
+
+    .navbar {
+        height: 50px;
+    }
+
     .navbar-brand {
         display: none;
+    }
+    
+    #f {
+        margin-left: 27px;
+        margin-right: 20px;
+    }
+
+    #l{
+        margin-right: 0;
+        margin-left: 0;
     }
 
     .navbar-menu li a {
@@ -16,7 +30,19 @@
         text-align: left;
         margin: 0;
         padding: 0;
+        margin-right: 27px;
     }
+
+
+    .navbar .container {
+        justify-content: left;
+    }
+
+    #l{
+        margin-right: 0;
+    }
+
+
 
     #cof {
         display: none;
@@ -45,7 +71,7 @@
         letter-spacing: 0.1em;
         text-align: left;
         width: 338px;
-        margin-left: 27px;
+        margin-left: 37px;
     }
 
     .main-heading h1 {
@@ -55,7 +81,8 @@
         line-height: 25px;
         letter-spacing: 0.1em;
         text-align: left;
-        margin-left: 27px;
+        margin-left: 37px;
+        margin-top: 48px;
     }
 
     #chep {
@@ -67,9 +94,20 @@
         text-align: left;
         width: 98px;
         margin-top: 0px;
+        margin-left: 10px;
     }
 
-    #inpt {
+    #impt {
         margin-bottom: 0;
+        padding-bottom: 0;
+    }
+
+    .none {
+        display: block;
+    }
+
+    .llog {
+        margin-left: 75px;
+        margin-top: 10px;
     }
 }
