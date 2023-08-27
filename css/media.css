@@ -24,7 +24,7 @@
     .navbar-menu li a {
         font-family: Montserrat;
         font-size: 8px;
-        font-weight: 400;
+        font-weight: 300;
         line-height: 10px;
         letter-spacing: 0.1em;
         text-align: left;
@@ -56,11 +56,26 @@
         height: 72px;
         border-radius: 20px;
         margin-left: 0;
+        margin-left: -13px;
     }
 
     #nit {
         width: 137px;
         height: 70px;
+        margin-left: 6px;
+    }
+
+    .main-subtitle h1{
+        font-family: Montserrat;
+        font-size: 13px;
+        font-weight: 500;
+        line-height: 16px;
+        letter-spacing: 0.1em;
+        text-align: left;
+    }
+
+    .main-subtitle {
+        margin-bottom: 14px;
     }
 
     .main-heading p {
@@ -93,7 +108,7 @@
         letter-spacing: 0.1em;
         text-align: left;
         width: 98px;
-        margin-top: 0px;
+        margin-top: 5px;
         margin-left: 10px;
     }
 
@@ -109,5 +124,32 @@
     .llog {
         margin-left: 75px;
         margin-top: 10px;
+    }
+
+    #cofm {
+        width: 67px;
+        height: 91px;
+        border-radius: 20px;
+        margin-right: 0;
+        margin-right: -40px;
+        margin-bottom: 2px;
+        margin-top: -10px;
+        margin-bottom: 5px;
+    }
+
+    #tosm {
+        width: 84px;
+        height: 65px;
+        border-radius: 20px;
+        margin-right: 0;
+        margin-right: 7px;
+    }
+
+    #fc {
+        margin-left: 0px;
+    }
+
+    .fff {
+        margin-left: 27px;
     }
 }

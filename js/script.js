@@ -12,3 +12,24 @@ for (let anchor of anchors) {
     })
   })
 }
+
+
+// const mediaQuery = window.matchMedia('(max-width: 425px)')
+
+// const mob = document.querySelectorAll('.m-only');
+
+// if (mediaQuery.matches) {
+//   for (let i of mob) {
+//     i.classList.add('m-only');
+//   };
+// };
+
+// const secmediaQuery = window.matchMedia('(min-width: 425px)')
+
+// const dec = document.querySelectorAll('.m-only');
+
+// if (secmediaQuery.matches) {
+//   for (let j of dec) {
+//     i.classList.remove('m-only');
+//   };
+// };
